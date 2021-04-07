@@ -1,0 +1,2 @@
+#ifndef __VA_USR_PUB_H__#define __VA_USR_PUB_H__#include <stdio.h>#include <stdlib.h>#include <unistd.h>#include <string.h>#include <sys/types.h>#include <sys/stat.h>#include <fcntl.h>#include <sys/ioctl.h>#ifdef __cplusplus#include <map>#include <list>#include <string>#include <vector>#endif#include "va_type.h"#include "cpu_def.h"#include "va_def.h"#include "va_chan_def.h"#include "va_io_cmd.h"#include "mt_usr_pub.h"#include "va_cfg_def.h"#include "vn_def.h"#include "vaa_api_def.h"#endif //__VA_USR_PUB_H__
+
